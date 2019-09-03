@@ -1,6 +1,6 @@
 {
   "name": "copy-case",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Copy the case form one string into another",
   "main": "index.js",
   "scripts": {
