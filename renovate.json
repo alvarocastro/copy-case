@@ -4,5 +4,8 @@
   ],
   "travis": {
     "enabled": true
-  }
+  },
+  "supportPolicy": [
+    "active"
+  ]
 }
