@@ -21,6 +21,9 @@
   "bugs": {
     "url": "https://github.com/alvarocastro/copy-case/issues"
   },
+  "engines": {
+    "node" : ">=0.10.3 <0.13"
+  },
   "homepage": "https://github.com/alvarocastro/copy-case#readme",
   "devDependencies": {
     "ava": "3.5.1",
