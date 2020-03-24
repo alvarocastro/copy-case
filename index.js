@@ -5,22 +5,19 @@
  * @return {string} Converted string.
  */
 const copyCase = function (target, source) {
-	let res = '';
-
-	for (let i = 0; i < target.length; i++) {
+	const result = target.split('').map((char, i) => {
 		if (i >= source.length) {
-			res += target[i];
-			continue;
+			return char;
 		}
 
 		if (source[i] === source[i].toUpperCase()) {
-			res += target[i].toUpperCase();
-		} else {
-			res += target[i].toLowerCase();
+			return char.toUpperCase();
 		}
-	}
 
-	return res;
+		return char.toLowerCase();
+	});
+
+	return result.join('');
 };
 
 module.exports = copyCase;
