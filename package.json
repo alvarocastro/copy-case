@@ -1,6 +1,6 @@
 {
   "name": "copy-case",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Copy the case form one string into another",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "url": "https://github.com/alvarocastro/copy-case/issues"
   },
   "engines": {
-    "node" : ">=10 <14"
+    "node": ">=10 <14"
   },
   "homepage": "https://github.com/alvarocastro/copy-case#readme",
   "devDependencies": {
