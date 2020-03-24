@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/alvarocastro/copy-case#readme",
   "devDependencies": {
-    "ava": "2.3.0",
+    "ava": "3.5.1",
     "coveralls": "3.0.6",
     "nyc": "15.0.0",
     "xo": "0.24.0"
