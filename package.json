@@ -22,7 +22,7 @@
     "url": "https://github.com/alvarocastro/copy-case/issues"
   },
   "engines": {
-    "node" : ">=1 <4"
+    "node" : ">=10 <14"
   },
   "homepage": "https://github.com/alvarocastro/copy-case#readme",
   "devDependencies": {
