@@ -22,13 +22,13 @@
     "url": "https://github.com/alvarocastro/copy-case/issues"
   },
   "engines": {
-    "node" : ">=10 <12"
+    "node" : ">=1 <4"
   },
   "homepage": "https://github.com/alvarocastro/copy-case#readme",
   "devDependencies": {
     "ava": "3.5.1",
     "coveralls": "3.0.11",
     "nyc": "15.0.0",
-    "xo": "0.24.0"
+    "xo": "0.28.0"
   }
 }
