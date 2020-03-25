@@ -30,5 +30,8 @@
     "coveralls": "3.0.11",
     "nyc": "15.0.0",
     "xo": "0.28.0"
+  },
+  "dependencies": {
+    "@alvarocastro/is-upper-case": "^1.0.1"
   }
 }

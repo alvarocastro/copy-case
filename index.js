@@ -1,3 +1,5 @@
+const isUpperCase = require('@alvarocastro/is-upper-case');
+
 /**
  * Copy the case of a string into another.
  * @param {string} target String to change the case.
@@ -10,7 +12,7 @@ const copyCase = function (target, source) {
 			return char;
 		}
 
-		if (source[i] === source[i].toUpperCase()) {
+		if (isUpperCase(source[i])) {
 			return char.toUpperCase();
 		}
 
