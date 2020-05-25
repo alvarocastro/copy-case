@@ -29,7 +29,7 @@
     "ava": "3.5.1",
     "coveralls": "3.1.0",
     "nyc": "15.0.1",
-    "xo": "0.28.1"
+    "xo": "0.30.0"
   },
   "dependencies": {
     "@alvarocastro/is-upper-case": "^1.0.1"
